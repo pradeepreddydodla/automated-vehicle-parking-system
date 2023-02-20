@@ -1,1 +1,3 @@
-# Dynamic-Vehicle-Parking-System
+# Automated Vehicle Parking System 
+
+Hardware used for prototype - Raspberry PI
